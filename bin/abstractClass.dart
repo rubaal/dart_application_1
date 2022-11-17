@@ -9,7 +9,7 @@ cust2.newbalance=40000;
 cust2.diposit();
 cust2.withdraw();
 }
-
+//abstarct
 abstract class bank{
   num? balance;
   String? name;
